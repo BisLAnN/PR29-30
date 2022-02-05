@@ -24,7 +24,7 @@ namespace BisAppp
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("Вы произвели выход из формы!");
         }
     }
 }
