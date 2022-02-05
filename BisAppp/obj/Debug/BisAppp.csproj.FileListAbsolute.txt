@@ -1,0 +1,10 @@
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\bin\Debug\BisAppp.exe.config
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\bin\Debug\BisAppp.exe
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\bin\Debug\BisAppp.pdb
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\obj\Debug\BisAppp.csproj.AssemblyReference.cache
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\obj\Debug\BisAppp.Form1.resources
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\obj\Debug\BisAppp.Properties.Resources.resources
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\obj\Debug\BisAppp.csproj.GenerateResource.cache
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\obj\Debug\BisAppp.csproj.CoreCompileInputs.cache
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\obj\Debug\BisAppp.exe
+C:\Users\Фатима\source\repos\BisAppp\BisAppp\obj\Debug\BisAppp.pdb
